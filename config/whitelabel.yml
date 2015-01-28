@@ -406,3 +406,34 @@
   domains:
   - madridrb.com
   :google_group: madrid-rb
+  label_id: hannoverb
+  default_locale: de
+  recurring: third wednesday
+  email: info@hannoverb.de
+  twitter: hannoverb
+  organizers:
+  - tobiasbuehlmann
+  - jasinai
+  location:
+    :zoom: 14
+    :lat: 52.374444
+    :long: 9.738611
+  imprint:
+    :address: |-
+      YourStreet 1
+      0815 YourTown
+    :contributors:
+    - :name: Nicola Hauke
+      :email: jasinai@jasinai.de
+  other_usergroups:
+    - :name: Java Usergroup Hannover
+      :url: http://www.jug-h.de/
+      :twitter: jugHannover
+    - :name: Agile Wednesday
+      :url: http://www.agilewh.de/
+      :twitter: agilewh
+    - :name: Hannover's regulary JavaScript Meetup
+      :url: https://hannoverjs.github.io/hannoverjs.de/
+      :twitter: hannoverjs
+  tld: de
+  coc: http://rubyberlin.github.io/code-of-conduct/
